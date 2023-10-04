@@ -1,0 +1,5 @@
+file(GLOB_RECURSE LIB_SOURCES "*.hpp" "*.cpp")
+add_library(comp_maths INTERFACE)
+target_sources(comp_maths INTERFACE ${LIB_SOURCES})
+target_include_directories(comp_maths INTERFACE ${CMAKE_CURRENT_SOURCE_DIR})
+set_target_properties(comp_maths PROPERTIES LINKER_LANGUAGE CXX)
