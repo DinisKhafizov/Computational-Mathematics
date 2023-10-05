@@ -6,7 +6,10 @@ include_directories(${gtest_SOURCE_DIR}/include ${gtest_SOURCE_DIR})
 
 # Add test executables
 add_executable(tests
-homework.cpp
+task2.cpp
+task3.cpp
+task4.cpp
+task5.cpp
 interpolation.cpp) 
 
 
