@@ -1,13 +1,10 @@
 #include "SIteration.hpp"
 
-const double y(const double x) {
-    return 0;  // changable function!
-}
-
-double simple_iteration(const double x_0, const double tolerance) {
-    double x = x_0;
-    while ((x - y(x)) >= tolerance) {
-        x = y(x);
+const double simple_iteration(const double x_0, const double tolerance, const double (*y)(const double)) {
+    double x = x_0, temp = y(x_0);
+    while (fabs(x - temp) >= tolerance) {
+        x = temp;
+        temp = y(temp);
     }
     return x;
 }

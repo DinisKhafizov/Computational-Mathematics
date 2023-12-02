@@ -10,6 +10,11 @@ task2.cpp
 task3.cpp
 task4.cpp
 task5.cpp
+SECOND_task1.cpp
+SECOND_task2.cpp
+SECOND_task3.cpp
+SECOND_task4.cpp
+SECOND_task5.cpp
 interpolation.cpp) 
 
 

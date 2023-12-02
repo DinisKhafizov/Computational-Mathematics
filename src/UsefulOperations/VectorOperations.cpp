@@ -117,7 +117,7 @@ bool operator==(const std::vector<double> &a, std::vector<double> &b) {
     return true;
 }
 
-// norms: first, second
+// norms: first, second, endless
 
 double first_norm(const std::vector<double> &x) {
     double Norm = 0;
@@ -128,6 +128,16 @@ double first_norm(const std::vector<double> &x) {
 }
 
 double second_norm(const std::vector<double> &x) { return sqrt(x * x); }
+
+double endless_norm(const std::vector<double> &x) {
+    double max = 0;
+    for (size_t i = 0, end = size(x) - 1; i < end; ++i) {
+        if (std::abs(x[i]) > max) {
+            max = std::abs(x[i]);
+        }
+    }
+    return max;
+}
 
 // specific
 
@@ -149,6 +159,14 @@ std::vector<double> linspace(const double start, const double end,
     std::vector<double> res(points_number);
     for (int i = 0; i < points_number; ++i) {
         res[i] = start + diff * i;
+    }
+    return res;
+}
+
+std::vector<double> get_vectors_part(const std::vector<double> &x, const int begin, const int end) {
+    std::vector<double> res(end - begin);
+    for (size_t i = 0, end1 = size(res); i < end1; ++i) {
+        res[i] = x[begin + i];
     }
     return res;
 }

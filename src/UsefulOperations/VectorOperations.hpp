@@ -38,11 +38,13 @@ std::vector<double> operator/=(const std::vector<double> &x, const double a);
 
 bool operator==(const std::vector<double> &a, std::vector<double> &b);
 
-// norms: first, second
+// norms: first, second, endless
 
 double first_norm(const std::vector<double> &x);
 
 double second_norm(const std::vector<double> &x);
+
+double endless_norm(const std::vector<double> &x);
 
 // specific
 
@@ -51,5 +53,5 @@ std::vector<double> elWise_Mult(const std::vector<double> &a,
 
 std::vector<double> linspace(const double start, const double end,
                              const int points_number);
-
+std::vector<double> get_vectors_part(const std::vector<double> &x, const int begin, const int end) ;
 #endif
