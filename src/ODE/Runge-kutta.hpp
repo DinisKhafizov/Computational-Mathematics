@@ -17,6 +17,16 @@ std::vector<double> runge_kutta_4_sys(
     std::vector<double> (*f)(const double, const std::vector<double> &),
     const std::vector<double> &u_0, const double h);
 
+std::vector<double> runge_kutta_6(
+    const std::vector<double> &t,
+    std::vector<double> (*f)(const double, const std::vector<double> &),
+    const std::vector<double> &u_0, const double h);
+
+std::vector<double> runge_kutta_2(
+    const std::vector<double> &t,
+    std::vector<double> (*f)(const double, const std::vector<double> &),
+    const std::vector<double> &u_0, const double h);
+
 void WritingToFile_sys(const std::vector<double> &res, std::string filename,
                        int type);
 
