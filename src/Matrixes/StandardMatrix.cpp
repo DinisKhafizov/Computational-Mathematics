@@ -91,6 +91,19 @@ std::vector<double> Matrix::getCol(const int j, const int i_begin)  {
     }
     return vec;
 }
+
+void Matrix::setCol(const int j, const std::vector<double> &x) {
+    for (int i = 0; i < M; ++i) {
+        A[i * N + j] = x[i];
+    }
+}
+
+void Matrix::setRow(const int i, const std::vector<double> &x) {
+    for (int j = 0; j < N; ++j) {
+        A[i * N + j] = x[j];
+    }
+}
+
 std::vector<double> Matrix::getRow(const int i, const int j_end) const {
     std::vector<double> vec(j_end);
     const int k = i * N;
@@ -131,6 +144,14 @@ void Matrix::transpose() {
     M = k;
 }
 
+void Matrix::to_identity() {
+    std::vector<double> res(M * N);
+    for (size_t i = 0; i < M; ++i) {
+        res[i * M + i] = 1;
+    }
+    A = res;
+
+}
 
 Matrix Matrix::transpose(const int what){
     std::vector<double> res(M * N);

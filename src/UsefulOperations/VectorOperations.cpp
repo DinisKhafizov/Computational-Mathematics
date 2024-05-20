@@ -170,3 +170,14 @@ std::vector<double> get_vectors_part(const std::vector<double> &x, const int beg
     }
     return res;
 }
+/*
+Помещает вектор v1 в вектор v2 с индекса start
+v1 = [1, 2]
+v2 = [0, 0, 0, 0, 0]
+putV1ToV2(v1, v2, 1) -> v2 = [0, 1, 2, 0, 0]
+*/
+void putV1ToV2(const std::vector<double> &v1, std::vector<double> &v2, int start) {
+    for (size_t i = 0, end = size(v1); i < end; ++i) {
+        v2[start + i] = v1[i];
+    }
+}

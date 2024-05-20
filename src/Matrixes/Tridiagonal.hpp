@@ -19,4 +19,7 @@ class TridiagonalMatrix {
     double GetC(int i);
 };
 
+std::vector<double> Sweep(TridiagonalMatrix &Matrix,
+                          const std::vector<double> &D);
+
 #endif

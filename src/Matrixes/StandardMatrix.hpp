@@ -27,6 +27,8 @@ public:
     std::vector<double> getRow(const int i)  ;
 
     std::vector<double> getCol(const int j, const int i_begin = 0);
+    void setCol(const int j, const std::vector<double> &x);
+    void setRow(const int i, const std::vector<double> &x);
     std::vector<double> getRow(const int i, const int j_end = 0)  const;
 
     std::vector<double> getCol(const int j) const;
@@ -34,8 +36,8 @@ public:
 
 
     void transpose();
-
-
+    void to_identity();
+    
     Matrix transpose(const int what);
 
     void SetStringOnEnd(const std::vector<double> &newstr);
@@ -51,5 +53,7 @@ public:
 
     void show();
 };
+
+Matrix get_inv(Matrix &A);
 
 #endif

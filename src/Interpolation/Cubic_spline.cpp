@@ -4,28 +4,6 @@
 #include <iostream>
 #include <string>
 
-// Прогонка, принимает на вход трехдиагональную матрицу и столбец свободных
-// членов Возвращает столбец решения x
-std::vector<double> Sweep(TridiagonalMatrix &Matrix,
-                          const std::vector<double> &D) {
-    double denom;  // переменная для хранения знаменателя
-    const int N = Matrix.GetN();  // размер входной матрицы
-    std::vector<double> x(N), p(N - 1),
-        q(N - 1);  // х - результат прогонки, p q - векторы для вычисления х
-    p[0] = -Matrix.GetC(0) / Matrix.GetB(0);
-    q[0] = D[0] / Matrix.GetB(0);
-    for (int i = 0; i < N - 2; ++i) {
-        denom = Matrix.GetA(i) * p[i] + Matrix.GetB(i + 1);
-        p[i + 1] = -Matrix.GetC(i + 1) / denom;
-        q[i + 1] = (D[i + 1] - Matrix.GetA(i) * q[i]) / denom;
-    }
-    x[N - 1] = (D[N - 1] - Matrix.GetA(N - 2) * q[N - 2]) /
-               (Matrix.GetA(N - 2) * p[N - 2] + Matrix.GetB(N - 1));
-    for (int i = 1; i < N; ++i) {
-        x[N - i - 1] = x[N - i] * p[N - i - 1] + q[N - i - 1];
-    }
-    return x;
-}
 // интерполирующая функция, принимает на вход точки, значения функции в этих
 // точках, значения вторых производных на концах отрезка (гран условия, по
 // умолчанию == 0) возвращает вектор размера 4n - 4 - коэффициенты a, b, c, d,

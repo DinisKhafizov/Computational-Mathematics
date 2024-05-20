@@ -1,0 +1,164 @@
+[
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/2ex_2task.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/2ex_2task.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/2ex_2task.cpp",
+  "output": "tests/CMakeFiles/tests.dir/2ex_2task.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/2sem/GS.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/GS.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/GS.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/2sem/GS.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/2sem/hybrid.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/hybrid.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/hybrid.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/2sem/hybrid.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/2sem/laks-vendorff.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/laks-vendorff.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/laks-vendorff.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/2sem/laks-vendorff.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/2sem/ugolok.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/ugolok.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/2sem/ugolok.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/2sem/ugolok.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Gradient/CG.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Gradient/CG.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Gradient/CG.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Gradient/CG.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Integration/Quadrature.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Integration/Quadrature.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Integration/Quadrature.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Integration/Quadrature.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Integration/Rectangle.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Integration/Rectangle.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Integration/Rectangle.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Integration/Rectangle.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Interpolation/Cubic_spline.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Interpolation/Cubic_spline.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Interpolation/Cubic_spline.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Interpolation/Cubic_spline.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Interpolation/Lagrange.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Interpolation/Lagrange.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Interpolation/Lagrange.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Interpolation/Lagrange.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Interpolation/Newton.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Interpolation/Newton.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Interpolation/Newton.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Interpolation/Newton.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Matrixes/MatrixOnCSR.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/MatrixOnCSR.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/MatrixOnCSR.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Matrixes/MatrixOnCSR.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Matrixes/Pentadiagonal.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/Pentadiagonal.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/Pentadiagonal.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Matrixes/Pentadiagonal.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Matrixes/StandardMatrix.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/StandardMatrix.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/StandardMatrix.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Matrixes/StandardMatrix.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Matrixes/Standard_Inv.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/Standard_Inv.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/Standard_Inv.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Matrixes/Standard_Inv.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/Matrixes/Tridiagonal.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/Tridiagonal.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/Matrixes/Tridiagonal.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/Matrixes/Tridiagonal.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/NonlinearEq/Newton_eq.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/NonlinearEq/Newton_eq.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/NonlinearEq/Newton_eq.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/NonlinearEq/Newton_eq.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/NonlinearEq/SIteration.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/NonlinearEq/SIteration.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/NonlinearEq/SIteration.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/NonlinearEq/SIteration.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/ODE/Dorman-Prince.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/ODE/Dorman-Prince.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/ODE/Dorman-Prince.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/ODE/Dorman-Prince.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/ODE/Eiler.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/ODE/Eiler.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/ODE/Eiler.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/ODE/Eiler.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/ODE/Runge-kutta.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/ODE/Runge-kutta.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/ODE/Runge-kutta.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/ODE/Runge-kutta.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/SimpleIteration/SI.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/SimpleIteration/SI.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/SimpleIteration/SI.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/SimpleIteration/SI.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -o CMakeFiles/tests.dir/__/src/UsefulOperations/VectorOperations.cpp.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/UsefulOperations/VectorOperations.cpp\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/src/UsefulOperations/VectorOperations.cpp",
+  "output": "tests/CMakeFiles/tests.dir/__/src/UsefulOperations/VectorOperations.cpp.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests/googletest-main/googlemock",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock/include\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock/src/gmock-all.cc\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock/src/gmock-all.cc",
+  "output": "tests/googletest-main/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests/googletest-main/googlemock",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock/src/gmock_main.cc\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googlemock/src/gmock_main.cc",
+  "output": "tests/googletest-main/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests/googletest-main/googletest",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/src/gtest-all.cc\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/src/gtest-all.cc",
+  "output": "tests/googletest-main/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/build/tests/googletest-main/googletest",
+  "command": "/usr/bin/g++ -DCOMPILE_WITH_TESTS -I\"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/../../Загрузки/eigen\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/include\" -isystem \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest\" -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c \"/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/src/gtest_main.cc\"",
+  "file": "/home/diniskhafizov/c c++ projects/Computional_maths_5th_Semester/tests/googletest-main/googletest/src/gtest_main.cc",
+  "output": "tests/googletest-main/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

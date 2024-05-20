@@ -2,9 +2,6 @@
 #define CUBIC_SPLNE
 #include "../Matrixes/Tridiagonal.hpp"
 
-std::vector<double> Sweep(TridiagonalMatrix &Matrix,
-                          const std::vector<double> &D);
-
 std::vector<double> Interpolation(std::vector<double> &x,
                                   std::vector<double> &y, double sec_der_begin,
                                   double sec_der_end);
